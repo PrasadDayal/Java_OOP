@@ -1,4 +1,4 @@
-# Java OOP Concepts – Example Projects
+# Java OOP Concepts – 
 
 This project is a collection of Java programs demonstrating key Object-Oriented Programming (OOP) concepts. Each concept is organized into separate folders and includes self-contained `.java` files with practical examples.
 
