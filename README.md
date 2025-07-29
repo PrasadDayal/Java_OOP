@@ -13,7 +13,7 @@ This project is a collection of Java programs demonstrating key Object-Oriented 
 
 - **Class & Objects**
 - **Constructors (Default & Parameterized)**
-- **Inheritance (Single, Multilevel)**
+- **Inheritance **
 - **Dynamic Method Dispatch (Runtime Polymorphism)**
 - **Method Overriding**
 - **Method Overloading**
