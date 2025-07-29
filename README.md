@@ -32,3 +32,49 @@ Each `.java` file is self-contained and can be compiled and run individually.
 
    ```bash
    javac FileName.java
+   ```
+# 🎮 Java Mini Games – Guess the Number & Rock Paper Scissors
+
+This project contains two simple console-based Java games demonstrating object-oriented concepts and user interaction through standard input/output.
+
+---
+
+## 📂 Files
+
+### `Guess_Number.java`
+A game where:
+- The program randomly generates a number between 1 and 100.
+- The user tries to guess it.
+- The program tells whether the guess is too high or too low.
+- It keeps track of the number of attempts.
+
+**Features:**
+- Uses a class `Game` with the following methods:
+  - `Game()` constructor: initializes a random number.
+  - `userInput()`: handles user input.
+  - `isCorrect()`: checks guess and provides feedback.
+
+---
+
+### `Rock_Paper.java`
+A basic **Rock-Paper-Scissors** game where:
+- The user chooses Rock (1), Paper (2), or Scissors (3).
+- The computer randomly selects its move.
+- The winner is determined using standard game rules.
+
+---
+
+## ▶️ How to Run
+
+### Compile
+**For Guess Number**
+```bash
+javac Guess_Number.java
+java Game           # For Guess_Number (assuming main is inside Game class)
+
+```
+**For Rock Paper Scissors**
+```bash
+javac Rock_Paper.java
+java Rock_Paper     # For Rock Paper Scissors game
+
